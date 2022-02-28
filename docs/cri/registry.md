@@ -192,4 +192,4 @@ Image is up to date for sha256:78096d0a54788961ca68393e5f8038704b97d8af374249dc5
 
 ---
 
-NOTE: The configuration syntax used in this doc is in version 2 which is the recommended since `containerd` 1.3. For the previous config format you can reference [https://github.com/containerd/cri/blob/release/1.2/docs/registry.md](https://github.com/containerd/cri/blob/release/1.2/docs/registry.md).
+NOTE: The configuration syntax used in this doc is in version 2 which is the recommended since `containerd` 1.3 and is a default version starting 1.5. For the previous config format you can reference [https://github.com/containerd/cri/blob/release/1.2/docs/registry.md](https://github.com/containerd/cri/blob/release/1.2/docs/registry.md).
