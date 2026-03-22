@@ -25,7 +25,7 @@ A codespace will open in a web-based version of Visual Studio Code. The [dev con
 
 To build the `containerd` daemon, and the `ctr` simple test client, the following build system dependencies are required:
 
-* Go compiler (download from https://go.dev/dl/). The two most recent major Go versions are supported. For example, if Go 1.25 is the latest, then 1.25 and 1.24 are supported.
+* Go compiler (download from https://go.dev/dl/). The two most recent major Go versions are supported. For example, if Go 1.26 is the latest, then 1.26 and 1.25 are supported.
 * Btrfs headers and libraries for your distribution. Note that building the btrfs driver can be disabled via the build tag `no_btrfs`, removing this dependency.
 
 > *Note*: On macOS, you need a third party runtime to run containers on containerd
